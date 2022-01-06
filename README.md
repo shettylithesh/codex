@@ -2,4 +2,4 @@
 user friendly website for learning coding 
 
 ```Link to the website```
-[codex](shettylithesh.github.io/codex)
+[codex](https://shettylithesh.github.io/codex/)
